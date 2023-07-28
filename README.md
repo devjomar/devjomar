@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello!<img alt="" title="Views" align="right" src="https://komarev.com/ghpvc/?username=zdeicidaz&label=&style=flat-square&color=blueviolet" /></h1>
+<h1 align="center">👋 Hello!<img alt="counting views" title="Views" align="right" src="https://komarev.com/ghpvc/?username=zdeicidaz&label=&style=flat-square&color=blueviolet" /></h1>
 
 <br />
 
@@ -11,6 +11,8 @@ I'm currently 20 years old and dedicated to full stack development. I started pr
 You may find me in random pull requests and issues or in discord around there... <b>See ya!</b>
 
 <br />
+
+<i>O aprendizado é continuo, e o próximo nivel nunca será o último 🚀 . Sempre busque evoluir ! </i>
 
 <div align="center">
 
