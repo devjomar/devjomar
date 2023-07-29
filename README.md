@@ -39,3 +39,10 @@ You may find me in random pull requests and issues or in discord around there...
 
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/zdeicidaz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedIn&logoColor=0073B1)](https://linkedin.com/in/devjomar)</div>
+
+<div align="center">
+  
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=zdeicidaz&show_icons=true&count_private=true&hide_border=true&title_color=7F3ACE&icon_color=7F3ACE&text_color=ffff&bg_color=0d1117" alt="Erick Bezerra github stats" /> 
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zdeicidaz&layout=compact&hide_border=true&title_color=7F3ACE&text_color=ffff&bg_color=0d1117" />  
+
+</div>
