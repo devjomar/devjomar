@@ -1,0 +1,30 @@
+{
+    "window.zoomLevel": 1,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.cursorBlinking": true,
+    "workbench.colorTheme": "Omni",
+    "workbench.iconTheme": "material-icon-theme",
+    "files.autoSave": "onFocusChange",
+    "editor.quickSuggestionsDelay": 5,
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontWeight": "600",
+    "editor.lineHeight": 18,
+    "editor.fontLigatures": true,
+    "editor.renderLineHighlight": "gutter",
+    "editor.formatOnSave": false,
+    "editor.rulers": [100],
+    "editor.formatOnType": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true,
+        "source.organizeImports": true,
+    },
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx"
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "explorer.confirmDelete": false,
+    "editor.minimap.enabled": false,
+    "files.trimFinalNewlines": false
+}
