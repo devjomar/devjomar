@@ -12,7 +12,7 @@ You may find me in random pull requests and issues or in discord around there...
 
 <br />
 
-<i>O aprendizado é continuo, e o próximo nivel nunca será o último 🚀 . Sempre busque evoluir ! </i>
+<i>O aprendizado é contínuo, sempre haverá um próximo nível 🚀 . Sempre evolua ! </i>
 
 <div align="center">
 
