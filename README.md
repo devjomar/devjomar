@@ -24,7 +24,6 @@ You may find me in random pull requests and issues or in discord around there...
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
 ![Postgres](https://img.shields.io/badge/Postgres-black?style=flat-square&logo=postgresql)
 ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
-![Actions](https://img.shields.io/badge/Actions-black?style=flat-square&logo=github-actions)
 ![VSCode](https://img.shields.io/badge/VSCode-black?style=flat-square&logo=visual-studio-code&logoColor=2D9EE9)
 <span title="Yeah i know">
 ![Windows](https://img.shields.io/badge/Windows-black?style=flat-square&logo=windows&logoColor=0174CF)
