@@ -12,7 +12,6 @@ You may find me in random pull requests and issues or in discord around there...
 <br />
 
 <i>Learning is continuous, there will always be a next level 🚀.</i>
-<i>O aprendizado é contínuo, sempre haverá um próximo nível 🚀.</i>
 
 <div align="center">
 
