@@ -3,8 +3,7 @@
 <br />
 
 My name is <b>João Omar </b>, I'm a software engineer living in Brazil 🇧🇷. 
-I am passionate about programming, turning your ideas into reality. 
-Besides coding, I love playing League of Legends and CSGO.
+I am passionate about programming, turning your ideas into reality.
 
 I'm currently 20 years old and dedicated to full stack development. I started programming somewhere in late 2022 with JavaScript.
 
@@ -12,7 +11,8 @@ You may find me in random pull requests and issues or in discord around there...
 
 <br />
 
-<i>O aprendizado é contínuo, sempre haverá um próximo nível 🚀 . Sempre evolua ! </i>
+<i>Learning is continuous, there will always be a next level 🚀.</i>
+<i>O aprendizado é contínuo, sempre haverá um próximo nível 🚀.</i>
 
 <div align="center">
 
