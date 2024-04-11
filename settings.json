@@ -15,8 +15,8 @@
     "editor.rulers": [100],
     "editor.formatOnType": true,
     "editor.codeActionsOnSave": {
-        "source.fixAll.eslint": true,
-        "source.organizeImports": true,
+        "source.fixAll.eslint": "always",
+        "source.organizeImports": "always",
     },
     "emmet.syntaxProfiles": {
         "javascript": "jsx"
@@ -26,5 +26,6 @@
     },
     "explorer.confirmDelete": false,
     "editor.minimap.enabled": false,
-    "files.trimFinalNewlines": false
+    "files.trimFinalNewlines": false,
+    "symbols.hidesExplorerArrows": false
 }
