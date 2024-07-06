@@ -4,7 +4,7 @@
 
 My name is <b>João Omar </b>, I'm a web developer living in Brazil 🇧🇷. 
 
-With one year of experience, primarily focused on JavaScript development. I have significant experience with Node.js and frameworks like Next.js and Nest.js. My focus is on creating modern and efficient web applications, constantly striving to learn and apply best development practices.
+With one year of experience, mainly focused on JavaScript development. I have significant experience with Node.js and frameworks like Next.js and Nest.js. My focus is on creating modern and efficient web applications, constantly striving to learn and apply best development practices.
 
 Mains Stacks:
 - JavaScript (TypeScript, Node.js, Nest.js, Next.js)
