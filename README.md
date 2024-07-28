@@ -4,7 +4,7 @@
 
 My name is <b>João Omar</b>, I'm a backend developer living in Brazil 🇧🇷. 
 
-With one year of experience, primarily focused on JavaScript development. I have significant experience with C#, Golang, and Node.js environments. My focus is on creating modern and efficient web applications while applying best development practices.
+With one year of experience, mainly focused on JavaScript development. I have significant experience with C#, Golang, and Node.js environments. My focus is on creating modern and efficient web applications while applying best development practices.
 
 Mains Stacks:
 - Languages: JavaScript, Golang, C#
