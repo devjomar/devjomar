@@ -4,6 +4,6 @@
 
 My name is <b>João Omar</b>, I'm a web developer living in Brazil 🇧🇷. 
 
-With one year of experience, mainly focused on backend development. I have significant experience with Node.js environment. My focus is on creating modern and efficient web applications while applying best development practices.
+Mainly focused on backend development. I have significant experience with Node.js environment. My focus is on creating modern and efficient web applications while applying best development practices.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedIn&logoColor=0073B1)](https://linkedin.com/in/devjomar)</div>
